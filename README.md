@@ -1,4 +1,4 @@
-<img width="731" alt="Screenshot 2024-10-30 at 19 37 06" src="https://github.com/user-attachments/assets/584c6bc3-9e91-4f7c-abe6-9b5e9ecb09cb"># Streamlit-User-Agent
+# Streamlit-User-Agent
 
 User Agent Analyzer is a simple web application built using Streamlit and Python. This application allows users to input a user agent string and receive information about the device being used, including device type, operating system, and browser.
 
@@ -31,6 +31,10 @@ Before running this application, ensure you have Python 3.x and pip installed on
   ```
 
 4. **Run the Application**
+
+![image](https://github.com/user-attachments/assets/39382da1-7d5c-49c6-b189-800d552bcc9f)
+![image](https://github.com/user-attachments/assets/59d0c43f-9079-4d13-a85f-9709e3148c9d)
+
 
 
 <img width="731" alt="Screenshot 2024-10-30 at 19 37 06" src="https://github.com/user-attachments/assets/9ccbcbd4-c6e6-4e11-832b-db599bf0d220">
