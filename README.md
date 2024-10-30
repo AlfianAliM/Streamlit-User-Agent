@@ -15,10 +15,6 @@ Before running this application, ensure you have Python 3.x and pip installed on
 ## Installation
 
 1. **Clone this repository:**
-   ```
-   git clone https://github.com/username/repo_name.git
-   cd repo_name
-   ```
 2. **Create and activate a virtual environment (optional but recommended):**
   ```
   python -m venv venv
